@@ -16,8 +16,7 @@ The solution follows the full BI lifecycle: **ETL -> Data Modeling -> DAX Calcul
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard-screenshot.png)
-*(Note: Please add a screenshot of your report here)*
+![Dashboard Screenshot]([images/dashboard-screenshot.png](https://github.com/WaelMelkiMelki/End-to-End-Sales-Analytics-Dashboard-AdventureWorks-Power-BI-/blob/main/screens1.png))
 
 ---
 
